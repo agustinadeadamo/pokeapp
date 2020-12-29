@@ -1,4 +1,4 @@
-# battleship-vue-app
+# poke-app
 
 ## Project setup
 ```
